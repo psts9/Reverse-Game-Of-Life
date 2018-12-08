@@ -1,0 +1,27 @@
+Bonus:
+
+- Authentic Game of Life simulator!
+
+- Select 3 different models at run-time!
+  - Logistic Regression
+  - Decision Tree
+  - Random Forest
+
+- Compiled Cython module!
+
+- Experimental multi-processing!
+
+- Optional cross-validation!
+
+- (Logistic Regression) Mini-batch gradient descent!
+
+- Meaningful performance measurements!
+
+- Superbly formatted logs!
+
+- Beautiful plots!
+
+- Robust error-handling!
+
+- Phat-ass UML diagram!
+
